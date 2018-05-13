@@ -1,7 +1,11 @@
 second line modified
 testing team has been updated
-<<<<<<< HEAD
-changes for 3 line 
-=======
 changes for 3 line has been modified 
->>>>>>> release1.0
+<<<<<<< Updated upstream
+stash line change 
+stash line for commited
+
+=======
+stash line change
+line for changes stash 
+>>>>>>> Stashed changes
